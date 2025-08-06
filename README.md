@@ -40,9 +40,7 @@ Model training runs for 50 epochs with validation on the test set. Performance i
 5. Evaluate model performance on the test set.  
 6. Visualize training/validation metrics and classification report.  
 
----
-
-## Türkçe Açıklama  
+---  
 
 Bu proje, CIFAR-10 veri setindeki 10 farklı kategoriye (uçak, araba, kuş, kedi vb.) ait görüntüleri sınıflandırmak için Keras ile Evrişimli Sinir Ağı (CNN) kullanmaktadır.
 
